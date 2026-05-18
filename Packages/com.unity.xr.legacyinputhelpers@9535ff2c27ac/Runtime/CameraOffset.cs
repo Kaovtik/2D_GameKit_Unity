@@ -156,7 +156,7 @@ namespace UnityEditor.XR.LegacyInputHelpers
 #if UNITY_2019_3_OR_NEWER
         bool SetupCamera()
         {
-            SubsystemManager.GetInstances<XRInputSubsystem>(s_InputSubsystems);
+            SubsystemManager.GetSubsystems<XRInputSubsystem>(s_InputSubsystems);
 
             bool initialized = true;
             if (s_InputSubsystems.Count != 0)
@@ -265,7 +265,7 @@ namespace UnityEditor.XR.LegacyInputHelpers
 
         private void OnDestroy()
         {
-            SubsystemManager.GetInstances(s_InputSubsystems);
+            SubsystemManager.GetSubsystems(s_InputSubsystems);
             foreach (var subsystem in s_InputSubsystems)
                 subsystem.trackingOriginUpdated -= OnTrackingOriginUpdated;
         }

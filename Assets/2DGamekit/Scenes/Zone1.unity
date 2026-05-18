@@ -31891,32 +31891,32 @@ PrefabInstance:
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
       propertyPath: audioSettings.Array.size
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
       propertyPath: audioSettings.Array.data[0].tag
-      value: Ambiance
-      objectReference: {fileID: 0}
-    - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
-        type: 3}
-      propertyPath: audioSettings.Array.data[1].tag
-      value: Ambiance
-      objectReference: {fileID: 0}
-    - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
-        type: 3}
-      propertyPath: audioSettings.Array.data[2].tag
       value: Music
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
-      propertyPath: audioSettings.Array.data[3].tag
+      propertyPath: audioSettings.Array.data[1].tag
       value: MusicMenu
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
-      propertyPath: audioSettings.Array.data[4].tag
+      propertyPath: audioSettings.Array.data[2].tag
       value: MusicBoss
+      objectReference: {fileID: 0}
+    - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
+        type: 3}
+      propertyPath: audioSettings.Array.data[3].tag
+      value: Music
+      objectReference: {fileID: 0}
+    - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
+        type: 3}
+      propertyPath: audioSettings.Array.data[4].tag
+      value: Music
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
@@ -31936,22 +31936,22 @@ PrefabInstance:
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
       propertyPath: audioSettings.Array.data[1].action
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
       propertyPath: audioSettings.Array.data[2].action
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
       propertyPath: audioSettings.Array.data[3].action
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
       propertyPath: audioSettings.Array.data[4].action
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
@@ -31971,7 +31971,7 @@ PrefabInstance:
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
       propertyPath: audioSettings.Array.data[1].parameter
-      value: Location
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
@@ -31981,12 +31981,12 @@ PrefabInstance:
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
       propertyPath: audioSettings.Array.data[3].parameter
-      value: 
+      value: ProgressionInst
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
       propertyPath: audioSettings.Array.data[4].parameter
-      value: 
+      value: ProgressionInst
       objectReference: {fileID: 0}
     - target: {fileID: 8283495161900147264, guid: 5e02d266c3b0145ccad01d32166fc7b1,
         type: 3}
