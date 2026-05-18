@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4256432018734796895
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4256432018734796897}
+  - component: {fileID: 4256432018734796894}
+  m_Layer: 0
+  m_Name: AudioBossManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4256432018734796897
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4256432018734796895}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4256432018734796894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4256432018734796895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b023496471c2240b53ba8f3361a010, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bossWalk:
+    Guid:
+      Data1: -325465357
+      Data2: 1293583645
+      Data3: 1272434825
+      Data4: -126216714
+    Path: event:/Enemies/Gunner/Enemy_Gunner_Footstep
+  bossLaserAttack:
+    Guid:
+      Data1: 1293831972
+      Data2: 1327557442
+      Data3: -1556616782
+      Data4: 165396006
+    Path: event:/Enemies/Gunner/Enemy_Gunner_Attack_Laser
+  bossGrenadeAttack:
+    Guid:
+      Data1: 1814344108
+      Data2: 1080982253
+      Data3: -1188903248
+      Data4: 1614685674
+    Path: event:/Enemies/Gunner/Enemy_Gunner_Attack_Grenade
+  bossLightningAttack:
+    Guid:
+      Data1: -698058754
+      Data2: 1279100591
+      Data3: -390776425
+      Data4: -1791159451
+    Path: event:/Enemies/Gunner/Enemy_Gunner_Attack_Lightning
+  bossTakeDamage:
+    Guid:
+      Data1: -863462851
+      Data2: 1147650988
+      Data3: 1623805854
+      Data4: 486147281
+    Path: event:/Enemies/Gunner/Enemy_Gunner_Damage
+  bossShield:
+    Guid:
+      Data1: -1815956617
+      Data2: 1336938448
+      Data3: -2090161784
+      Data4: -1325380017
+    Path: event:/Enemies/Gunner/Enemy_Gunner_Shield
+  bossSteamStage:
+    Guid:
+      Data1: 1729452980
+      Data2: 1237074571
+      Data3: -1809814884
+      Data4: -2093669621
+    Path: event:/Enemies/Gunner/Enemy_Gunner_Steam_Stages
+  bossDie:
+    Guid:
+      Data1: 731940493
+      Data2: 1287012204
+      Data3: 391509149
+      Data4: 470346607
+    Path: event:/Enemies/Gunner/Enemy_Gunner_Death
+  bossMusic: MusicBoss
+  stageParameter: BossStage
+  stage1Value: 0
+  stage2Value: 0
+  bossDeathValue: 0
