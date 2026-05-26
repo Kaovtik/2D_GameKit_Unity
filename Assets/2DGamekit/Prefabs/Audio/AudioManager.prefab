@@ -309,7 +309,6 @@ MonoBehaviour:
     music02: {fileID: 8933774022352548864}
     musicBoss: {fileID: 3257842776572977270}
     musicPause: {fileID: 4860983653683116548}
-    ambiance: {fileID: 0}
     snapShotPause: {fileID: 7484880938483047845}
   playerFootsteps:
     Guid:
@@ -334,18 +333,18 @@ MonoBehaviour:
     Path: 
   playerAttackMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 2068091781
+      Data2: 1210151966
+      Data3: -236352330
+      Data4: -1890643673
+    Path: event:/Ellen/Melee Attack
   playerAttackRanged:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -229327152
+      Data2: 1333186341
+      Data3: -887549267
+      Data4: 603780909
+    Path: event:/Ellen/Ranged Attack
   playerHurt:
     Guid:
       Data1: 0

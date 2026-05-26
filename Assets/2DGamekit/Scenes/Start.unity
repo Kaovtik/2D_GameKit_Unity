@@ -29013,11 +29013,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146966, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146966, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -29065,31 +29060,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerAttackRanged.Path
-      value: event:/Ellen/ranged attack
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerAttackRanged.Guid.Data1
-      value: -229327152
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerAttackRanged.Guid.Data2
-      value: 1333186341
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerAttackRanged.Guid.Data3
-      value: -887549267
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
-        type: 3}
-      propertyPath: playerAttackRanged.Guid.Data4
-      value: 603780909
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
