@@ -312,11 +312,11 @@ MonoBehaviour:
     snapShotPause: {fileID: 7484880938483047845}
   playerFootsteps:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1667360388
+      Data2: 1134633549
+      Data3: 1581100183
+      Data4: -2053779810
+    Path: event:/Ellen/Run
   playerJump:
     Guid:
       Data1: 0
