@@ -347,11 +347,11 @@ MonoBehaviour:
     Path: event:/Ellen/Ranged Attack
   playerHurt:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1952554901
+      Data2: 1118613408
+      Data3: 1522171546
+      Data4: 1170538220
+    Path: event:/Ellen/Take Damage
   wallDestroy:
     Guid:
       Data1: 0
