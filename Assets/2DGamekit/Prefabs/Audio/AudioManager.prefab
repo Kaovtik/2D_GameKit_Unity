@@ -391,11 +391,11 @@ MonoBehaviour:
     Path: event:/Ellen/Jump
   playerLand:
     Guid:
-      Data1: 39254803
-      Data2: 1325868861
-      Data3: 2029152915
-      Data4: -1277673079
-    Path: event:/Ellen/Land
+      Data1: 797532364
+      Data2: 1156426080
+      Data3: 1391122851
+      Data4: -1699167911
+    Path: event:/Ellen/Land 2
   playerAttackMelee:
     Guid:
       Data1: 2068091781
