@@ -110,11 +110,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: -1064736668
-      Data2: 1172765438
-      Data3: -1842621049
-      Data4: 1714070241
-    Path: event:/Environment/AMB
+      Data1: -1722098826
+      Data2: 1327354347
+      Data3: 2125042573
+      Data4: 2020864136
+    Path: event:/Environment/AMB Outdoor
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0
