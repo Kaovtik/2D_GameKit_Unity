@@ -447,11 +447,11 @@ MonoBehaviour:
     Path: 
   pickupKey:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1423008320
+      Data2: 1175855431
+      Data3: 285600409
+      Data4: 703227945
+    Path: event:/Interactables/Key Pickup
   pressurePad:
     Guid:
       Data1: 0
