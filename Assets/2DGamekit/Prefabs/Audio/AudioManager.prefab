@@ -461,11 +461,11 @@ MonoBehaviour:
     Path: 
   acidSplash:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -581614835
+      Data2: 1132135398
+      Data3: 1360791945
+      Data4: -886892170
+    Path: event:/Environment/AMB Acid Splash
   boxPush:
     Guid:
       Data1: 0
