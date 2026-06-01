@@ -73,6 +73,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9036170128446846763}
   - component: {fileID: 9160289830964057525}
+  - component: {fileID: 5083276473745181533}
   m_Layer: 0
   m_Name: Ambiance
   m_TagString: Ambiance
@@ -110,11 +111,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: -1722098826
-      Data2: 1327354347
-      Data3: 2125042573
-      Data4: 2020864136
-    Path: event:/Environment/AMB Outdoor
+      Data1: -659721351
+      Data2: 1135737492
+      Data3: 957630093
+      Data4: -1147053735
+    Path: event:/Environment/AMB Manager
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0
@@ -126,6 +127,19 @@ MonoBehaviour:
   OverrideAttenuation: 0
   OverrideMinDistance: 1
   OverrideMaxDistance: 20
+--- !u!114 &5083276473745181533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2166475459352174422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e964efe0e8cd4ddba522c37df205aa5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioEmitterPosition
+  tagName: Player
 --- !u!1 &2625683428649236813
 GameObject:
   m_ObjectHideFlags: 0
