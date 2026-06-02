@@ -440,11 +440,11 @@ MonoBehaviour:
     Path: event:/Interactables/Destructable Wall
   pickupHealth:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1790593308
+      Data2: 1338349426
+      Data3: 1864432311
+      Data4: 438911147
+    Path: event:/Interactables/Health Pickup
   doorSwitch:
     Guid:
       Data1: 0
@@ -489,18 +489,18 @@ MonoBehaviour:
     Path: 
   menuClick:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 80114695
+      Data2: 1301874406
+      Data3: 232125349
+      Data4: -2046293763
+    Path: event:/UI/Menu Button Click
   menuStartGame:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1212116916
+      Data2: 1210202726
+      Data3: 416621473
+      Data4: 609449768
+    Path: event:/UI/Menu Button Start Click
   enemyFootstep:
     Guid:
       Data1: 0
