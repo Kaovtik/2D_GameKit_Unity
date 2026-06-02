@@ -524,11 +524,11 @@ MonoBehaviour:
     Path: event:/Enemies/Chomper
   enemyDeath:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1998661158
+      Data2: 1158720013
+      Data3: -373203558
+      Data4: 304675192
+    Path: event:/Enemies/SharedDeath
   stingerGameOver:
     Guid:
       Data1: 715162006
