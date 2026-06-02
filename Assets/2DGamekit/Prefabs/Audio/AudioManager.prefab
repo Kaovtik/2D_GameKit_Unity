@@ -510,11 +510,11 @@ MonoBehaviour:
     Path: 
   enemyRanged:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1176637142
+      Data2: 1108010490
+      Data3: -1924740713
+      Data4: 874602310
+    Path: event:/Enemies/Spitter
   enemyMelee:
     Guid:
       Data1: -1276117129
