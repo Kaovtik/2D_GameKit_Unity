@@ -517,11 +517,11 @@ MonoBehaviour:
     Path: 
   enemyMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1276117129
+      Data2: 1112936645
+      Data3: -514692729
+      Data4: -1397564530
+    Path: event:/Enemies/Chomper
   enemyDeath:
     Guid:
       Data1: 0
