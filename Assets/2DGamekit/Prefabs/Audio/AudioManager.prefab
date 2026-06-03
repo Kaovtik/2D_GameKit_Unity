@@ -454,11 +454,11 @@ MonoBehaviour:
     Path: event:/Interactables/Door Switch
   doorOpen:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1810128902
+      Data2: 1230204515
+      Data3: 309857946
+      Data4: -52813769
+    Path: event:/Interactables/Door Open
   pickupKey:
     Guid:
       Data1: 1423008320
