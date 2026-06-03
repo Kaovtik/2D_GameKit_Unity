@@ -468,11 +468,11 @@ MonoBehaviour:
     Path: event:/Interactables/Key Pickup
   pressurePad:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1147263417
+      Data2: 1311854188
+      Data3: 934589073
+      Data4: 1701430689
+    Path: event:/Interactables/Pressure Pad
   acidSplash:
     Guid:
       Data1: -581614835
