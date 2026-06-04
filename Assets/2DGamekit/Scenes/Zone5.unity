@@ -1833,6 +1833,7 @@ GameObject:
   - component: {fileID: 200126959}
   - component: {fileID: 200126960}
   - component: {fileID: 200126961}
+  - component: {fileID: 200126963}
   - component: {fileID: 200126962}
   m_Layer: 0
   m_Name: CutsceneTrigger
@@ -2005,6 +2006,25 @@ MonoBehaviour:
     action: 3
     parameter: BossStage
     targetValue: 0
+--- !u!114 &200126963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 200126958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559ade3239054624bbc831667cc4d94f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioTrigger
+  destroyAfterUse: 1
+  audioTriggerSettings:
+  - emitter: {fileID: 0}
+    tag: MusicBoss
+    action: 3
+    parameter: BossStage
+    targetValue: 1
 --- !u!1 &211741460
 GameObject:
   m_ObjectHideFlags: 0
